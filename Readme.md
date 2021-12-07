@@ -1,1 +1,1 @@
-Olá esse projeto é voltado para Documentação
+Olá esse projeto é voltado para Documentação.
